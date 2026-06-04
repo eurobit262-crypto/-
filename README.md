@@ -27,7 +27,6 @@ ORM	Entity Framework Core
 Тестирование	xUnit
 
 Структура проекта
-text
 RailwayInventory/
 ├── Controllers/          
 ├── Views/              
